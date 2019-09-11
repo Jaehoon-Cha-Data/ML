@@ -3,6 +3,8 @@
 Created on Sat Jun 29 17:12:30 2019
 
 @author: jaehooncha
+
+@email: chajaehoon79@gmail.com
 """
 import numpy as np
 import pandas as pd

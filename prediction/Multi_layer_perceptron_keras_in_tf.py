@@ -4,7 +4,7 @@ Created on Wed Jun 26 17:33:00 2019
 
 @author: jaehooncha
 
-@email: Jaehoon.Cha@xjtlu.edu.cn
+@email: chajaehoon79@gmail.com
 
 Multi-Layer Perceptron keras in tensorflow
 """

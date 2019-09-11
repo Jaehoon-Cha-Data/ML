@@ -4,7 +4,7 @@ Created on Mon Jul  1 17:44:54 2019
 
 @author: jaehooncha
 
-@email: Jaehoon.Cha@xjtlu.edu.cn
+@email: chajaehoon79@gmail.com
 
 Multi-Layer Perceptron tensorflow
 

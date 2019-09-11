@@ -4,7 +4,7 @@ Created on Tue Jun 25 23:00:20 2019
 
 @author: jaehooncha
 
-@email: Jaehoon.Cha@xjtlu.edu.cn
+@email: chajaehoon79@gmail.com
 
 Linear regression
 """
