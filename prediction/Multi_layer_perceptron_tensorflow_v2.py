@@ -122,11 +122,11 @@ train_predict_y = model(train_x)
 test_predict_y = model(test_x)
 
 
-### root mean squared error ###
-train_rmse = loss_object(train_y, train_predict_y)
-test_rmse = loss_object(test_y, test_predict_y)
-print('train RMSE is %.4f' %(train_rmse))
-print('test RMSE is %.4f' %(test_rmse))
+### mean squared error ###
+train_mse = loss_object(train_y, train_predict_y)
+test_mse = loss_object(test_y, test_predict_y)
+print('train RMSE is %.4f' %(train_mse))
+print('test RMSE is %.4f' %(test_mse))
 
 
 ### font size ###
