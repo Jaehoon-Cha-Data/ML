@@ -125,8 +125,8 @@ test_predict_y = model(test_x)
 ### mean squared error ###
 train_mse = loss_object(train_y, train_predict_y)
 test_mse = loss_object(test_y, test_predict_y)
-print('train RMSE is %.4f' %(train_mse))
-print('test RMSE is %.4f' %(test_mse))
+print('train MSE is %.4f' %(train_mse))
+print('test MSE is %.4f' %(test_mse))
 
 
 ### font size ###
